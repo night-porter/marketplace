@@ -1,0 +1,11 @@
+# The official Night Porter marketplace: an index of packs, each pinned to a commit.
+# Night Porter reads this file with `nightporter market update`; `nightporter pack add <name>`
+# installs from it. See https://docs.night-porter.com/writing-packs
+name = "official"
+description = "Packs reviewed by the Night Porter maintainers"
+
+# [[packs]]
+# name = "a11y"
+# url = "https://github.com/you/nightporter-a11y"
+# rev = "full 40-character commit SHA"
+# description = "Accessibility review for web front-ends"
