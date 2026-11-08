@@ -9,3 +9,21 @@ description = "Packs reviewed by the Night Porter maintainers"
 # url = "https://github.com/you/nightporter-a11y"
 # rev = "full 40-character commit SHA"
 # description = "Accessibility review for web front-ends"
+
+[[packs]]
+name = "a11y"
+url = "https://github.com/night-porter/pack-a11y"
+rev = "cdc8067fd1981c1110b203b86a4669e56869c590"
+description = "WCAG 2.2 AA accessibility review for web front-ends"
+
+[[packs]]
+name = "drupal"
+url = "https://github.com/night-porter/pack-drupal"
+rev = "2b388a7c917205a07922be7987d290a52048bc4c"
+description = "Drupal coding standards, config export, update hooks and cache metadata, plus a DDEV env preset"
+
+[[packs]]
+name = "rust"
+url = "https://github.com/night-porter/pack-rust"
+rev = "cad82eb128b8fe4690024678b2672b408c9dcf60"
+description = "Rust review: clippy, rustfmt, tests, unsafe, error handling, MSRV and Cargo.lock"
