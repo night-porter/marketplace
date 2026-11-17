@@ -19,11 +19,11 @@ description = "WCAG 2.2 AA accessibility review for web front-ends"
 [[packs]]
 name = "drupal"
 url = "https://github.com/night-porter/pack-drupal"
-rev = "2b388a7c917205a07922be7987d290a52048bc4c"
+rev = "88dd5693daf114b3379df1c5d6be12ba229aafa2"
 description = "Drupal coding standards, config export, update hooks and cache metadata, plus a DDEV env preset"
 
 [[packs]]
 name = "rust"
 url = "https://github.com/night-porter/pack-rust"
-rev = "cad82eb128b8fe4690024678b2672b408c9dcf60"
+rev = "7d89efdbd66919bc80894e1f1523121e8cea4840"
 description = "Rust review: clippy, rustfmt, tests, unsafe, error handling, MSRV and Cargo.lock"
